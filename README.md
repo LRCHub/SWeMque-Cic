@@ -1,0 +1,56 @@
+# Just A Gent – Rolling Dice（feat. Ella Vos、Joey Chavez）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.57] I still wear the smile you gave to me
+[00:23.61] When we were just having fun
+[00:27.72] In a daydream where we belong
+[00:33.64] Now I see you never needed me
+[00:39.94] But we tried hard to trick ourselves
+[00:43.81] Into thinking, we could be helped
+[01:00.31] 
+[00:48.35] And you said
+[00:51.38] "Come on, come on
+[00:53.23] Just close your eyes
+[00:59.56] We'll test our fate
+[01:01.35] Like rolling dice"
+[01:07.69] Oh, come on now
+[01:09.42] You'll feel alive
+[01:15.86] We'll test our fate
+[01:17.67] Like rolling dice
+[01:21.95] Like rolling dice
+[01:30.45] 
+[01:57.26] I still use the laughs you gave to me
+[02:03.30] When we were just having fun
+[02:07.37] In a daydream where we belong
+[02:13.43] And now we've both met someone else
+[02:19.50] And we try hard to trick ourselves
+[02:23.67] Into thinking, we can be helped
+[02:39.17] 
+[02:27.75] And you said
+[02:31.02] "Come on, come on
+[02:33.00] Just close your eyes
+[02:39.15] We'll test our fate
+[02:41.01] Like rolling dice"
+[02:47.27] Oh, come on now
+[02:49.31] You'll feel alive
+[02:55.46] We'll test our fate
+[02:57.38] Like rolling dice
+[03:01.49] Like rolling dice
+[03:09.99] 
+[03:34.67] I'll keep this fire burning brighter
+[03:42.50] As long as the stars shine
+[03:46.73] This isn't goodbye
+[03:55.73] 
+[03:52.31] Come on, come on
+[03:54.21] Just close your eyes
+[04:00.38] We'll test our fate
+[04:02.40] Like rolling dice
+[04:06.45] Like rolling dice
+[04:14.95] 
+[04:25.55] I'll keep this fire
+[04:29.35] Burning bright
+[04:33.65] I'll keep this fire
+[04:37.48] Burning bright
+```
