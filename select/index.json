@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Rolling Dice（feat. Ella Vos、Joey Chavez）",
+  "base_artist": "Just A Gent",
+  "createdAt": "2026-03-23T13:05:06.164934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rolling Dice feat Ella Vos Joey Chavez",
+      "artist": "Just A Gent",
+      "has_synced": true,
+      "path": "select/01_Rolling_Dice_feat_Ella_Vos_Joey_Chavez_Just_A_Gent.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rolling Dice (feat. Ella Vos & Joey Chavez)",
+      "artist": "Just A Gent",
+      "has_synced": true,
+      "path": "select/02_Rolling_Dice_(feat._Ella_Vos_&_Joey_Chavez)_Just_A_Gent.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rolling Dice (feat. Ella Vos & Joey Chavez) [Muto Remix]",
+      "artist": "Just A Gent feat. Ella Vos & Joey Chavez",
+      "has_synced": false,
+      "path": "select/03_Rolling_Dice_(feat._Ella_Vos_&_Joey_Chavez)_[Muto_Remix]_Just_A_Gent_feat._Ella_Vos_&_Joey_Chavez.txt"
+    }
+  ]
+}
